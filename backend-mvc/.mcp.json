@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/thinkpad_t480s/.config/herd-lite/bin/php",
+                "/mnt/c/Users/ThinkPad T480s/backend-mvc/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
